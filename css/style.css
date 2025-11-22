@@ -338,7 +338,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px;
-    min-height: 70vh;
+    min-height: 50vh;
     width: 100%;
     position: absolute;
     bottom: 0;
@@ -352,7 +352,7 @@ body {
 .banner-name {
     font-size: 36px;
     text-align: center;
-    font-family: var(--title-font);
+    font-family: var(--script-font);
     color: var(--text-white);
     opacity: .8;
 }
